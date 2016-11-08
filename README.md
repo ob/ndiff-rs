@@ -1,0 +1,2 @@
+# ndiff-rs
+diff library
